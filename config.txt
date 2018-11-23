@@ -1,6 +1,6 @@
-token= هنا حق التوكين حق بوتك
+token=NTE1NjM3ODM3NTc2NTM2MDc1.DtoA1Q.5Nqy8hwRVHWPZ5gGdUNw9zcs0xc
 owner=476799148218253313 
 prefix=2
-game=NTE1NjM3ODM3NTc2NTM2MDc1.DtoA1Q.5Nqy8hwRVHWPZ5gGdUNw9zcs0xc
+game=LS
 stayinchannel=false
 songinstatus=true
